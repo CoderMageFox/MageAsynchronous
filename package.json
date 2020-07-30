@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/CoderMageFox/MageAsynchronous/issues"
   },
-  "homepage": "https://github.com/CoderMageFox/MageAsynchronous#readme"
+  "homepage": "https://github.com/CoderMageFox/MageAsynchronous#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
 }
